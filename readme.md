@@ -1,4 +1,4 @@
-#  Amharic Hate Speec Detection
+#  Amharic Hate Speech Detection
 ### Using :
 ##### Tf-Idf
 ##### word2Vec
